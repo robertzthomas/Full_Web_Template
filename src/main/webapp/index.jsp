@@ -14,19 +14,19 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <!-- bootstrap css -->
-    <link rel="stylesheet" href="src/main/webapp/css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
     <!-- style css -->
-    <link rel="stylesheet" href="src/main/webapp/css/style.css">
+    <link rel="stylesheet" href="css/style.css">
     <!-- Responsive-->
-    <link rel="stylesheet" href="src/main/webapp/css/responsive.css">
+    <link rel="stylesheet" href="css/responsive.css">
     <!-- fevicon -->
     <link rel="icon" href="images/fevicon.png" type="image/gif" />
     <!-- Scrollbar Custom CSS -->
-    <link rel="stylesheet" href="src/main/webapp/css/jquery.mCustomScrollbar.min.css">
+    <link rel="stylesheet" href="css/jquery.mCustomScrollbar.min.css">
     <!-- Tweaks for older IEs-->
     <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css">
     <!-- owl stylesheets -->
-    <link rel="stylesheet" href="src/main/webapp/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
     <link rel="stylesheet" href="css/owl.theme.default.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.css" media="screen">
     <!--[if lt IE 9]>
@@ -36,11 +36,11 @@
 <!-- body -->
 <body class="main-layout">
 <!-- header section start -->
-<div class="header_section" style="background-image: url('src/main/webapp/images/abstract2.png')">
+<div class="header_section" style="background-image: url('images/abstract2.png')">
     <div class="container">
         <div class="row">
             <div class="col-sm-3">
-                <div class="logo"><a href="#"><img src="src/main/webapp/images/logo1colored.png"></a></div>
+                <div class="logo"><a href="#"><img src="images/logo1colored.png"></a></div>
             </div>
             <div class="col-sm-9">
                 <nav class="navbar navbar-expand-lg navbar-light bg-light">
@@ -50,10 +50,10 @@
                     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                         <div class="navbar-nav">
                             <a class="nav-item nav-link" href="index.jsp">Home</a>
-                            <a class="nav-item nav-link" href="src/main/webapp/collection.html">Collection</a>
-                            <a class="nav-item nav-link" href="src/main/webapp/login.jsp">Login</a>
-                            <a class="nav-item nav-link last" href="#"><img src="src/main/webapp/images/search_icon.png"></a>
-                            <a class="nav-item nav-link last" href="src/main/webapp/contact.html"><img src="src/main/webapp/images/shop_icon.png"></a>
+                            <a class="nav-item nav-link" href="collection.html">Collection</a>
+                            <a class="nav-item nav-link" href="login.jsp">Login</a>
+                            <a class="nav-item nav-link last" href="#"><img src="images/search_icon.png"></a>
+                            <a class="nav-item nav-link last" href="contact.html"><img src="images/shop_icon.png"></a>
                         </div>
                     </div>
                 </nav>
@@ -91,7 +91,7 @@
                                         </div>
                                     </div>
                                     <div class="col-sm-5">
-                                        <div class="shoes_img"><img src="src/main/webapp/images/dylanBoot1-removebg-preview.png"></div>
+                                        <div class="shoes_img"><img src="images/dylanBoot1-removebg-preview.png"></div>
                                     </div>
                                 </div>
                             </div>
@@ -112,7 +112,7 @@
                                         </div>
                                     </div>
                                     <div class="col-sm-5">
-                                        <div class="shoes_img"><img src="src/main/webapp/images/dylanBoot2-removebg-preview.png"></div>
+                                        <div class="shoes_img"><img src="images/dylanBoot2-removebg-preview.png"></div>
                                     </div>
                                 </div>
                             </div>
@@ -133,7 +133,7 @@
                                         </div>
                                     </div>
                                     <div class="col-sm-5">
-                                        <div class="shoes_img"><img src="src/main/webapp/images/dylanBoot3-removebg-preview.png"></div>
+                                        <div class="shoes_img"><img src="images/dylanBoot3-removebg-preview.png"></div>
                                     </div>
                                 </div>
                             </div>
@@ -154,7 +154,7 @@
                                         </div>
                                     </div>
                                     <div class="col-sm-5">
-                                        <div class="shoes_img"><img src="src/main/webapp/images/dylanBoot1-removebg-preview.png"></div>
+                                        <div class="shoes_img"><img src="images/dylanBoot1-removebg-preview.png"></div>
                                     </div>
                                 </div>
                             </div>
@@ -176,16 +176,16 @@
                 <div class="col-md-6">
                     <div class="about-img">
                         <button class="new_bt">New</button>
-                        <div class="shoes-img"><img src="src/main/webapp/images/shoes-img1.png"></div>
+                        <div class="shoes-img"><img src="images/shoes-img1.png"></div>
                         <p class="sport_text">Men Sports</p>
                         <div class="dolar_text">$<strong style="color: #f12a47;">90</strong> </div>
                         <div class="star_icon">
                             <ul>
-                                <li><a href="#"><img src="src/main/webapp/images/star-icon.png"></a></li>
-                                <li><a href="#"><img src="src/main/webapp/images/star-icon.png"></a></li>
-                                <li><a href="#"><img src="src/main/webapp/images/star-icon.png"></a></li>
-                                <li><a href="#"><img src="src/main/webapp/images/star-icon.png"></a></li>
-                                <li><a href="#"><img src="src/main/webapp/images/star-icon.png"></a></li>
+                                <li><a href="#"><img src="images/star-icon.png"></a></li>
+                                <li><a href="#"><img src="images/star-icon.png"></a></li>
+                                <li><a href="#"><img src="images/star-icon.png"></a></li>
+                                <li><a href="#"><img src="images/star-icon.png"></a></li>
+                                <li><a href="#"><img src="images/star-icon.png"></a></li>
                             </ul>
                         </div>
                     </div>
@@ -193,16 +193,16 @@
                 </div>
                 <div class="col-md-6">
                     <div class="about-img2">
-                        <div class="shoes-img2"><img src="src/main/webapp/images/shoes-img2.png"></div>
+                        <div class="shoes-img2"><img src="images/shoes-img2.png"></div>
                         <p class="sport_text">Men Sports</p>
                         <div class="dolar_text">$<strong style="color: #f12a47;">90</strong> </div>
                         <div class="star_icon">
                             <ul>
-                                <li><a href="#"><img src="src/main/webapp/images/star-icon.png"></a></li>
-                                <li><a href="#"><img src="src/main/webapp/images/star-icon.png"></a></li>
-                                <li><a href="#"><img src="src/main/webapp/images/star-icon.png"></a></li>
-                                <li><a href="#"><img src="src/main/webapp/images/star-icon.png"></a></li>
-                                <li><a href="#"><img src="src/main/webapp/images/star-icon.png"></a></li>
+                                <li><a href="#"><img src="images/star-icon.png"></a></li>
+                                <li><a href="#"><img src="images/star-icon.png"></a></li>
+                                <li><a href="#"><img src="images/star-icon.png"></a></li>
+                                <li><a href="#"><img src="images/star-icon.png"></a></li>
+                                <li><a href="#"><img src="images/star-icon.png"></a></li>
                             </ul>
                         </div>
                     </div>
@@ -251,11 +251,11 @@
                     <div class="star_text">
                         <div class="left_part">
                             <ul>
-                                <li><a href="#"><img src="src/main/webapp/images/star-icon.png"></a></li>
-                                <li><a href="#"><img src="src/main/webapp/images/star-icon.png"></a></li>
-                                <li><a href="#"><img src="src/main/webapp/images/star-icon.png"></a></li>
-                                <li><a href="#"><img src="src/main/webapp/images/star-icon.png"></a></li>
-                                <li><a href="#"><img src="src/main/webapp/images/star-icon.png"></a></li>
+                                <li><a href="#"><img src="images/star-icon.png"></a></li>
+                                <li><a href="#"><img src="images/star-icon.png"></a></li>
+                                <li><a href="#"><img src="images/star-icon.png"></a></li>
+                                <li><a href="#"><img src="images/star-icon.png"></a></li>
+                                <li><a href="#"><img src="images/star-icon.png"></a></li>
                             </ul>
                         </div>
                         <div class="right_part">
@@ -271,11 +271,11 @@
                     <div class="star_text">
                         <div class="left_part">
                             <ul>
-                                <li><a href="#"><img src="src/main/webapp/images/star-icon.png"></a></li>
-                                <li><a href="#"><img src="src/main/webapp/images/star-icon.png"></a></li>
-                                <li><a href="#"><img src="src/main/webapp/images/star-icon.png"></a></li>
-                                <li><a href="#"><img src="src/main/webapp/images/star-icon.png"></a></li>
-                                <li><a href="#"><img src="src/main/webapp/images/star-icon.png"></a></li>
+                                <li><a href="#"><img src="images/star-icon.png"></a></li>
+                                <li><a href="#"><img src="images/star-icon.png"></a></li>
+                                <li><a href="#"><img src="images/star-icon.png"></a></li>
+                                <li><a href="#"><img src="images/star-icon.png"></a></li>
+                                <li><a href="#"><img src="images/star-icon.png"></a></li>
                             </ul>
                         </div>
                         <div class="right_part">
@@ -291,11 +291,11 @@
                     <div class="star_text">
                         <div class="left_part">
                             <ul>
-                                <li><a href="#"><img src="src/main/webapp/images/star-icon.png"></a></li>
-                                <li><a href="#"><img src="src/main/webapp/images/star-icon.png"></a></li>
-                                <li><a href="#"><img src="src/main/webapp/images/star-icon.png"></a></li>
-                                <li><a href="#"><img src="src/main/webapp/images/star-icon.png"></a></li>
-                                <li><a href="#"><img src="src/main/webapp/images/star-icon.png"></a></li>
+                                <li><a href="#"><img src="images/star-icon.png"></a></li>
+                                <li><a href="#"><img src="images/star-icon.png"></a></li>
+                                <li><a href="#"><img src="images/star-icon.png"></a></li>
+                                <li><a href="#"><img src="images/star-icon.png"></a></li>
+                                <li><a href="#"><img src="images/star-icon.png"></a></li>
                             </ul>
                         </div>
                         <div class="right_part">
@@ -313,11 +313,11 @@
                     <div class="star_text">
                         <div class="left_part">
                             <ul>
-                                <li><a href="#"><img src="src/main/webapp/images/star-icon.png"></a></li>
-                                <li><a href="#"><img src="src/main/webapp/images/star-icon.png"></a></li>
-                                <li><a href="#"><img src="src/main/webapp/images/star-icon.png"></a></li>
-                                <li><a href="#"><img src="src/main/webapp/images/star-icon.png"></a></li>
-                                <li><a href="#"><img src="src/main/webapp/images/star-icon.png"></a></li>
+                                <li><a href="#"><img src="images/star-icon.png"></a></li>
+                                <li><a href="#"><img src="images/star-icon.png"></a></li>
+                                <li><a href="#"><img src="images/star-icon.png"></a></li>
+                                <li><a href="#"><img src="images/star-icon.png"></a></li>
+                                <li><a href="#"><img src="images/star-icon.png"></a></li>
                             </ul>
                         </div>
                         <div class="right_part">
@@ -333,11 +333,11 @@
                     <div class="star_text">
                         <div class="left_part">
                             <ul>
-                                <li><a href="#"><img src="src/main/webapp/images/star-icon.png"></a></li>
-                                <li><a href="#"><img src="src/main/webapp/images/star-icon.png"></a></li>
-                                <li><a href="#"><img src="src/main/webapp/images/star-icon.png"></a></li>
-                                <li><a href="#"><img src="src/main/webapp/images/star-icon.png"></a></li>
-                                <li><a href="#"><img src="src/main/webapp/images/star-icon.png"></a></li>
+                                <li><a href="#"><img src="images/star-icon.png"></a></li>
+                                <li><a href="#"><img src="images/star-icon.png"></a></li>
+                                <li><a href="#"><img src="images/star-icon.png"></a></li>
+                                <li><a href="#"><img src="images/star-icon.png"></a></li>
+                                <li><a href="#"><img src="images/star-icon.png"></a></li>
                             </ul>
                         </div>
                         <div class="right_part">
@@ -353,11 +353,11 @@
                     <div class="star_text">
                         <div class="left_part">
                             <ul>
-                                <li><a href="#"><img src="src/main/webapp/images/star-icon.png"></a></li>
-                                <li><a href="#"><img src="src/main/webapp/images/star-icon.png"></a></li>
-                                <li><a href="#"><img src="src/main/webapp/images/star-icon.png"></a></li>
-                                <li><a href="#"><img src="src/main/webapp/images/star-icon.png"></a></li>
-                                <li><a href="#"><img src="src/main/webapp/images/star-icon.png"></a></li>
+                                <li><a href="#"><img src="images/star-icon.png"></a></li>
+                                <li><a href="#"><img src="images/star-icon.png"></a></li>
+                                <li><a href="#"><img src="images/star-icon.png"></a></li>
+                                <li><a href="#"><img src="images/star-icon.png"></a></li>
+                                <li><a href="#"><img src="images/star-icon.png"></a></li>
                             </ul>
                         </div>
                         <div class="right_part">
@@ -379,21 +379,21 @@
         <div class="mail_section">
             <div class="row">
                 <div class="col-sm-6 col-lg-2">
-                    <div><a href="#"><img src="src/main/webapp/images/logo1colored.png"></a></div>
+                    <div><a href="#"><img src="images/logo1colored.png"></a></div>
                 </div>
                 <div class="col-sm-6 col-lg-2">
-                    <div class="footer-logo"><img src="src/main/webapp/images/phone-icon.png"><span class="map_text">(71) 1234567890</span></div>
+                    <div class="footer-logo"><img src="images/phone-icon.png"><span class="map_text">(71) 1234567890</span></div>
                 </div>
                 <div class="col-sm-6 col-lg-3">
-                    <div class="footer-logo"><img src="src/main/webapp/images/email-icon.png"><span class="map_text">Demo@gmail.com</span></div>
+                    <div class="footer-logo"><img src="images/email-icon.png"><span class="map_text">Demo@gmail.com</span></div>
                 </div>
                 <div class="col-sm-6 col-lg-3">
                     <div class="social_icon">
                         <ul>
-                            <li><a href="#"><img src="src/main/webapp/images/fb-icon.png"></a></li>
-                            <li><a href="#"><img src="src/main/webapp/images/twitter-icon.png"></a></li>
-                            <li><a href="#"><img src="src/main/webapp/images/in-icon.png"></a></li>
-                            <li><a href="#"><img src="src/main/webapp/images/google-icon.png"></a></li>
+                            <li><a href="#"><img src="images/fb-icon.png"></a></li>
+                            <li><a href="#"><img src="images/twitter-icon.png"></a></li>
+                            <li><a href="#"><img src="images/in-icon.png"></a></li>
+                            <li><a href="#"><img src="images/google-icon.png"></a></li>
                         </ul>
                     </div>
                 </div>
@@ -407,7 +407,7 @@
                 </div>
                 <div class="col-sm-4 col-lg-2">
                     <h2 class="shop_text">Address </h2>
-                    <div class="image-icon"><img src="src/main/webapp/images/map-icon.png"><span class="pet_text">No 40 Baria Sreet 15/2 NewYork City, NY, United States.</span></div>
+                    <div class="image-icon"><img src="images/map-icon.png"><span class="pet_text">No 40 Baria Sreet 15/2 NewYork City, NY, United States.</span></div>
                 </div>
                 <div class="col-sm-4 col-md-6 col-lg-3">
                     <h2 class="shop_text">Our Company </h2>
@@ -443,14 +443,14 @@
 
 
 <!-- Javascript files-->
-<script src="src/main/webapp/js/jquery.min.js"></script>
-<script src="src/main/webapp/js/popper.min.js"></script>
-<script src="src/main/webapp/js/bootstrap.bundle.min.js"></script>
-<script src="src/main/webapp/js/jquery-3.0.0.min.js"></script>
-<script src="src/main/webapp/js/plugin.js"></script>
+<script src="js/jquery.min.js"></script>
+<script src="js/popper.min.js"></script>
+<script src="js/bootstrap.bundle.min.js"></script>
+<script src="js/jquery-3.0.0.min.js"></script>
+<script src="js/plugin.js"></script>
 <!-- sidebar -->
-<script src="src/main/webapp/js/jquery.mCustomScrollbar.concat.min.js"></script>
-<script src="src/main/webapp/js/custom.js"></script>
+<script src="js/jquery.mCustomScrollbar.concat.min.js"></script>
+<script src="js/custom.js"></script>
 <!-- javascript -->
 <script src="js/owl.carousel.js"></script>
 <script src="https:cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.js"></script>
