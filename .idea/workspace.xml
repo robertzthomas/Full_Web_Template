@@ -9,7 +9,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e95782df-640f-4b64-b76d-275935041574" name="Changes" comment="" />
+    <list default="true" id="e95782df-640f-4b64-b76d-275935041574" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/collection.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/collection.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/racing boots.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/racing boots.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/shoes.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/shoes.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +28,9 @@
         <option value="Jsp File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -59,6 +68,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Zac\Documents\GitHub\FULL_WEB_TEMPLATE" />
       <recent name="C:\Users\Zac\IdeaProjects\demo\src\main\webapp" />
     </key>
   </component>
@@ -161,10 +171,22 @@
       <workItem from="1649133528074" duration="4465000" />
       <workItem from="1650848271441" duration="696000" />
       <workItem from="1650934053896" duration="30189000" />
+      <workItem from="1651290195454" duration="92000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
